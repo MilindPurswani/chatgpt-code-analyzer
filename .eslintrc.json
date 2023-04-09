@@ -1,0 +1,22 @@
+{
+    "root": true,
+    "parser": "babel-eslint",
+    "parserOptions": {
+      "ecmaVersion": 6,
+      "sourceType": "module"
+    },
+    "env": {
+      "node": true
+    },
+    "rules": {
+      "curly": "warn",
+      "eqeqeq": "warn",
+      "no-throw-literal": "warn",
+      "semi": "off"
+    },
+    "ignorePatterns": [
+      "out",
+      "dist"
+    ]
+  }
+  
