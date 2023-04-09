@@ -77,7 +77,7 @@ async function analyzeDirectory(directoryPath) {
 async function analyzeAndApplyDiagnostics(filePath, text) {
   try {
     const result = await callChatGPT(text);
-
+    openaiKey = 'asdasdaAAAXX233easas';
     // Parse the result and create diagnostics
     const diagnostics = [];
     const regex = /Line (\d+): (.+)/g;

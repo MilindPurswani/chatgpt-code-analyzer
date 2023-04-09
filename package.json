@@ -1,9 +1,14 @@
 {
-  "name": "chatgpt-code-analyzer",
-  "displayName": "ChatGPT Code Analyzer",
+  "name": "chatgpt-security-code-analyzer",
+  "displayName": "ChatGPT Security Code Analyzer",
   "description": "Use ChatGPT to find vulnerabilities in your code.",
   "version": "0.0.1",
-  "publisher": "Milind Purswani",
+  "publisher": "MilindPurswani",
+  "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MilindPurswani/chatgpt-code-analyzer.git"
+  },
   "engines": {
     "vscode": "^1.77.0"
   },
