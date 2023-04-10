@@ -2,7 +2,7 @@
   "name": "chatgpt-security-code-analyzer",
   "displayName": "ChatGPT Security Code Analyzer",
   "description": "Use ChatGPT to find vulnerabilities in your code.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "MilindPurswani",
   "icon": "images/logo.png",
   "repository": {
